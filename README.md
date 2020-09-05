@@ -4,3 +4,6 @@ There are two version provisions: English and Chinese
 
 
 ![Machine Reading COmprehension Model](./MachineReading.png)
+
+
+![MachineReadingScreenShot](./MachineReadingScreenShot.png)
